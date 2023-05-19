@@ -151,3 +151,10 @@
     align-content: flex-end;
 }
   
+/*Nível 23*/
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    align-content: center;
+}
