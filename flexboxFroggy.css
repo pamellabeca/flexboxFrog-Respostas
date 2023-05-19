@@ -99,3 +99,10 @@
     order: -5;
 }
 
+/*Nível 16*/
+#pond {
+    display: flex;
+}
+.yellow {
+    align-self:flex-end;
+}
