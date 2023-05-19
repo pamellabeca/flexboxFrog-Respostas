@@ -121,15 +121,18 @@
 /*Nível 18*/
 #pond {
     display: flex;
-    align-items: flex-start;
-}
-.yellow {
-    order: 1;
-    align-self: flex-end;
+    flex-wrap: wrap;
 }
 
 /*Nível 19*/
 #pond {
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
+}
+
+/*Nível 20*/
+#pond {
+    display: flex;
+    flex-flow: column wrap;
 }
