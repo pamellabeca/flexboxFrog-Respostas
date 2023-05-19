@@ -117,3 +117,18 @@
     order: 1;
     align-self: flex-end;
 }
+
+/*Nível 18*/
+#pond {
+    display: flex;
+    align-items: flex-start;
+}
+.yellow {
+    order: 1;
+    align-self: flex-end;
+}
+
+/*Nível 19*/
+#pond {
+    display: flex;
+    flex-wrap: wrap;
