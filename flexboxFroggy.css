@@ -158,3 +158,12 @@
     flex-direction: column-reverse;
     align-content: center;
 }
+
+/*Nível 24*/
+#pond {
+    display: flex;
+   flex-flow: column-reverse wrap-reverse;
+   justify-content: center;
+   align-content: space-between;
+}
+
