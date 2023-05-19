@@ -42,3 +42,8 @@
     align-items: flex-end;
 }
 
+/*Nível 8*/
+#pond {
+    display: flex;
+    flex-direction: row-reverse;
+}
