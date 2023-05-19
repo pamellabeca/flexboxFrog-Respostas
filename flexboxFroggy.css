@@ -15,3 +15,15 @@
     display: flex;
     justify-content: space-around;
 }
+
+/*Nível 4*/
+#pond {
+    display: flex;
+    justify-content: space-between;
+}
+
+/*Nível 5*/
+#pond {
+    display: flex;
+    align-items: flex-end;
+}
