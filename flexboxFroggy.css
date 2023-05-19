@@ -61,14 +61,24 @@
     justify-content: flex-end;
 }
 
+/*Nível 11*/
 #pond {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
 }
 
+/*Nível 12*/
 #pond {
     display: flex;
     flex-direction: column-reverse;
     justify-content: space-between;
+}
+
+/*Nível 13*/
+#pond {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: flex-end;
 }
