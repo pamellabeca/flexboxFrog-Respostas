@@ -4,3 +4,8 @@
     justify-content: flex-end;
 }
 
+/*Nível 2*/
+#pond {
+    display: flex;
+    justify-content: center;
+}
